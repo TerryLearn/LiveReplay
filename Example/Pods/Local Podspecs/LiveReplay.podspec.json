@@ -1,0 +1,22 @@
+{
+  "name": "LiveReplay",
+  "version": "0.1.0",
+  "summary": "A short description of LiveReplay.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ytdxxt10@163.com/LiveReplay",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ytdxxt10@163.com": "ytdxxt10@163.com"
+  },
+  "source": {
+    "git": "https://github.com/ytdxxt10@163.com/LiveReplay.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LiveReplay/Classes/**/*"
+}

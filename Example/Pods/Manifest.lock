@@ -1,0 +1,16 @@
+PODS:
+  - LiveReplay (0.1.0)
+
+DEPENDENCIES:
+  - LiveReplay (from `../`)
+
+EXTERNAL SOURCES:
+  LiveReplay:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LiveReplay: d8247424c653a8f78db97b8507205b0bc96f87cf
+
+PODFILE CHECKSUM: 797fbcf7185b73a0da59c42a8b777f042abe9a12
+
+COCOAPODS: 1.7.4

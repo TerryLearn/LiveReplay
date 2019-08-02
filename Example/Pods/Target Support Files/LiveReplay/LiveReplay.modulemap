@@ -1,0 +1,6 @@
+framework module LiveReplay {
+  umbrella header "LiveReplay-umbrella.h"
+
+  export *
+  module * { export * }
+}
